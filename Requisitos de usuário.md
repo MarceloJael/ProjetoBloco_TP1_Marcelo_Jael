@@ -8,7 +8,7 @@
 
 Afim de atender o objetivo do projeto de bloco, resolvi fazer uma rede social aonde usuários pode debater sobre uma determinada linguagem e o código da mesma.
 
-![](C:\Users\Marcelo Jael\Desktop\Diagrama\Requisitos de usuarios - TP 1.jpeg)
+![](https://raw.githubusercontent.com/MarceloJael/ProjetoBloco_TP1_Marcelo_Jael/main/Requisitos%20de%20usuarios%20-%20TP%201.jpeg?token=AGNIJY5XOVOJUD4EJPYNOQ3AVSAOW)
 
 
 
