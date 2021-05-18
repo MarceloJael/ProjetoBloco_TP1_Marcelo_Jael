@@ -1,6 +1,3 @@
-# ProjetoBloco_TP1_Marcelo_Jael
-Teste de performance 1 do Projeto de bloco - Desenvolvimento .NET,  Faculdade INFNET, materia ministriado pelo Professor Júlio Cesar. (User  Github: jcguimaraesnet
-
 <p align="center">
     <i>Teste de Performance 1 - Projeto de Bloco - Desenvolvimento .NET</i>
     <br />
